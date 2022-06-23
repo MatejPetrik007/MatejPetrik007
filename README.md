@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Gaming
 - 🌱 I’m currently learning Mikrotik ROS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me matejpetrik@protonmail.com
+- 📫 How to reach me matejpetrik@protonmail.ch
 
 <!---
 MatejPetrik007/MatejPetrik007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
